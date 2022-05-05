@@ -5,7 +5,8 @@ Request modülünü kullanıyoruz.
 Kullanıcıdan alınan şehrin sıcaklık derecesi ve hava durmunu verecek.
 
 """
-img1
+![img1](https://user-images.githubusercontent.com/54424377/166982062-b81398ea-a861-4b26-9141-4709cf1eb255.jpg)
+
 """
 
 """
@@ -46,10 +47,10 @@ https://docs.python-requests.org/en/latest/
 
 HTTP requestlerine verilen tepkidir. Bilgi içerikli,başarı yada hata içerikli mesajlar içerir.
 
-Informational responses (100–199)
-Successful responses (200–299)
-Redirection messages (300–399)
-Client error responses (400–499)
-Server error responses (500–599)
+*Informational responses (100–199)
+*Successful responses (200–299)
+*Redirection messages (300–399)
+*Client error responses (400–499)
+*Server error responses (500–599)
 
 "200 OK" başarılı request olduğunu gösterir.
