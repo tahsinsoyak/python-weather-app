@@ -4,19 +4,16 @@ Api kullanarak hava durumu bilgilerini çekeceğiz.
 Request modülünü kullanıyoruz.
 Kullanıcıdan alınan şehrin sıcaklık derecesi ve hava durmunu verecek.
 
-"""
+
 ![img1](https://user-images.githubusercontent.com/54424377/166982062-b81398ea-a861-4b26-9141-4709cf1eb255.jpg)
 
-"""
 
-"""
 ![img2](https://user-images.githubusercontent.com/54424377/166982122-6ebce515-14fe-4eb2-aced-1bb9c62c9f3c.jpg)
 
-"""
 
-"""
+
 ![img3](https://user-images.githubusercontent.com/54424377/166982127-e804b1e2-610f-4589-a575-aaa22670a5c8.jpg)
-"""
+
 
 
 ## Api Nedir?
